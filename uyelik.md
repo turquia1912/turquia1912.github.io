@@ -1,40 +1,10 @@
 ---
 layout: resume
 ---
-Derneğimiz 1912’de Lozan’da doktora yapmakta olan Mahmut Esat Bozkurt ve arkadaşları tarafından kurulmuştur.
+Derneğimize aktif üye ya da fahri üye olarak katılabilirsiniz. Aktif üyelik, İsviçre veya Türkiye’de aktif bir öğrenci olmanızı gerektirmektedir. Üyelik bedelimiz aktif üyeler için yıllık 10 CHF, fahri üyeler için yıllık 20 CHF’dir. Derneğimize üye olmak için aşağıdaki adımları uygulayın:
 
-Derneğimizin TRT Belgesel kanalı tarafından 100’üncü yılı şerefine hazırladığı belgeseli (7 bölüm):
+1. Üyelik formumuzu (<a href="https://turquia1912.github.io/assets/files/turquia-üyeformu-öğrenci_2015.pdf" style="color: #b1dbd9; text-decoration:underline">tıklayın</a>) doldurarak iletisim@turquia1912.org adresine yollayın.
 
-Bölüm 1
+2. Yönetim Kurulu başvurunuzu değerlendirdikten sonra başvurunuzu onaylaması durumunda e-posta adresinize derneğin banka hesap numarasını yollayacaktır. Üyelik işleminizin tamamlanması için bu hesaba yıllık üyelik bedeli olan 10 CHF (aktif üyeler) veya 20 CHF (fahri üyeler) yatırın. Havale metni olarak, aktif üyelik için “A İsim Soyisim”, fahri üyelik için “F İsim Soyisim” yazınız.
 
-<iframe width="1060" height="795" src="https://www.youtube.com/embed/c-bdZYnZn7o?feature=oembed" frameborder="0" allowfullscreen=""></iframe>
-
-
-Bölüm 2
-
-<iframe width="1060" height="795" src="https://www.youtube.com/embed/SNPjP61XEn0?feature=oembed" frameborder="0" allowfullscreen=""></iframe>
-
-
-Bölüm 3
-
-<iframe width="1060" height="795" src="https://www.youtube.com/embed/6innMBuo9R8?feature=oembed" frameborder="0" allowfullscreen=""></iframe>
-
-
-Bölüm 4
-
-<iframe width="1060" height="795" src="https://www.youtube.com/embed/kzcbdigJ4PY?feature=oembed" frameborder="0" allowfullscreen=""></iframe>
-
-
-Bölüm 5
-
-<iframe width="1060" height="795" src="https://www.youtube.com/embed/vOsDPSPCx48?feature=oembed" frameborder="0" allowfullscreen=""></iframe>
-
-
-Bölüm 6
-
-<iframe width="1060" height="795" src="https://www.youtube.com/embed/1xRTmW3vkoU?feature=oembed" frameborder="0" allowfullscreen=""></iframe>
-
-
-Bölüm 7
-
-<iframe width="1060" height="795" src="https://www.youtube.com/embed/xWh5eowdGHw?feature=oembed" frameborder="0" allowfullscreen=""></iframe>
+3. Yönetim Kurulu, ödemenizi aldıktan sonra e-posta adresinize onay gönderecektir.
