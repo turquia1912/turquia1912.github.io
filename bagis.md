@@ -13,12 +13,11 @@ Bağışlarınız sayesinde 19 Mayıs resepsiyonumuzu yapmanın yanında, üyele
 
 <li>Temsilciliklerimizde gerçekleştirecekleri işlemlerde yardım istediklerinde yanlarında bulunuyoruz.</li>
   
-<li>İsviçre’deki diğer Türk toplulukları ile iletişimimizi artırmak için yeni projeler üzerinde çalışıyoruz. Bununla birlikte derneğimizin yaşgünü olarak da benimsediğimiz 19 Mayıs Atatürk’ü Anma, Gençlik ve Spor Bayramı’nda her sene resepsiyon düzenliyoruz.</li>
+<li>İsviçre’deki diğer Türk toplulukları ile iletişimimizi artırmak için yeni projeler üzerinde çalışıyoruz. Bununla birlikte derneğimizin yaşgünü olarak da benimsediğimiz 19 Mayıs Atatürk’ü Anma, Gençlik ve Spor Bayramı’nda her sene resepsiyon düzenliyoruz.</li><br />
 <br />
 Derneğimiz, bağış yapan herkese minnetlerini sunar. Bunun yanında, sponsor olmak isteyen kuruluşlara da, bu kuruluşlarla yapılacak anlaşmalar doğrultusunda dernek içinde ve etkinliklerinde tanıtım olanakları sunar.
 
 Bağışta bulunmak ya da sponsor olmak istiyorsanız, bizimle iletisim@turquia1912.org adresinden iletişime geçmenizi rica ediyoruz.
 
-Sevgiler,
-<br />
+Sevgiler,<br />
 TURQUIA Yönetim Kurulu
