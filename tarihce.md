@@ -7,34 +7,28 @@ Derneğimizin TRT Belgesel kanalı tarafından 100’üncü yılı şerefine haz
 
 Bölüm 1
 
-<iframe width="1060" height="795" src="https://www.youtube.com/embed/c-bdZYnZn7o?feature=oembed" frameborder="0" allowfullscreen=""></iframe>
-
-
+<iframe width="1060" height="795" src="https://www.youtube.com/embed/c-bdZYnZn7o?feature=oembed" frameborder="0" allowfullscreen=""></iframe><br />
+<br />
 Bölüm 2
 
-<iframe width="1060" height="795" src="https://www.youtube.com/embed/SNPjP61XEn0?feature=oembed" frameborder="0" allowfullscreen=""></iframe>
-
-
+<iframe width="1060" height="795" src="https://www.youtube.com/embed/SNPjP61XEn0?feature=oembed" frameborder="0" allowfullscreen=""></iframe><br />
+<br />
 Bölüm 3
 
-<iframe width="1060" height="795" src="https://www.youtube.com/embed/6innMBuo9R8?feature=oembed" frameborder="0" allowfullscreen=""></iframe>
-
-
+<iframe width="1060" height="795" src="https://www.youtube.com/embed/6innMBuo9R8?feature=oembed" frameborder="0" allowfullscreen=""></iframe><br />
+<br />
 Bölüm 4
 
-<iframe width="1060" height="795" src="https://www.youtube.com/embed/kzcbdigJ4PY?feature=oembed" frameborder="0" allowfullscreen=""></iframe>
-
-
+<iframe width="1060" height="795" src="https://www.youtube.com/embed/kzcbdigJ4PY?feature=oembed" frameborder="0" allowfullscreen=""></iframe><br />
+<br />
 Bölüm 5
 
-<iframe width="1060" height="795" src="https://www.youtube.com/embed/vOsDPSPCx48?feature=oembed" frameborder="0" allowfullscreen=""></iframe>
-
-
+<iframe width="1060" height="795" src="https://www.youtube.com/embed/vOsDPSPCx48?feature=oembed" frameborder="0" allowfullscreen=""></iframe><br />
+<br />
 Bölüm 6
 
-<iframe width="1060" height="795" src="https://www.youtube.com/embed/1xRTmW3vkoU?feature=oembed" frameborder="0" allowfullscreen=""></iframe>
-
-
+<iframe width="1060" height="795" src="https://www.youtube.com/embed/1xRTmW3vkoU?feature=oembed" frameborder="0" allowfullscreen=""></iframe><br />
+<br />
 Bölüm 7
 
 <iframe width="1060" height="795" src="https://www.youtube.com/embed/xWh5eowdGHw?feature=oembed" frameborder="0" allowfullscreen=""></iframe>
