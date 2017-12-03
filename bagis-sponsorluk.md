@@ -1,40 +1,19 @@
 ---
 layout: resume
 ---
-Derneğimiz 1912’de Lozan’da doktora yapmakta olan Mahmut Esat Bozkurt ve arkadaşları tarafından kurulmuştur.
+Değerli Dostlarımız,
 
-Derneğimizin TRT Belgesel kanalı tarafından 100’üncü yılı şerefine hazırladığı belgeseli (7 bölüm):
+Turquia olarak yavaş ama kararlı adımlarla büyümeye devam ediyoruz. Derneğimizin etkinlikleri çok büyük bütçeler gerektirmemekle birlikte yine de belli ölçülerde desteğe ihtiyaç duymamıza sebep oluyor. Bunun için siz dostlarımızdan yapabileceginiz ölçüde derneğimize destek rica ediyoruz.
 
-Bölüm 1
+Bağışlarınız sayesinde 19 Mayıs resepsiyonumuzu yapmanın yanında, üyelerimizi ve sizleri tanıştırıp kaynaşabileceğiniz başka etkinlikler de düzenliyoruz. Dernek olarak;
 
-<iframe width="1060" height="795" src="https://www.youtube.com/embed/c-bdZYnZn7o?feature=oembed" frameborder="0" allowfullscreen=""></iframe>
+Yeni gelen öğrenci arkadaşlarımızı İsviçre ile ilgili idari konularda ihtiyaç duydukları detaylar noktasında bilgilendiriyoruz.
+Türk bir toplulukla bir araya gelip özlem duydukları konularda konuşabilmelerine ortam sunuyoruz.
+Temsilciliklerimizde gerçekleştirecekleri işlemlerde yardım istediklerinde yanlarında bulunuyoruz.
+İsviçre’deki diğer Türk toplulukları ile iletişimimizi artırmak için yeni projeler üzerinde çalışıyoruz.Bununla birlikte derneğimizin yaşgünü olarak da benimsediğimiz 19 Mayıs Atatürk’ü Anma, Gençlik ve Spor Bayramı’nda her sene resepsiyon düzenliyoruz.
+Derneğimiz, bağış yapan herkese minnetlerini sunar. Bunun yanında, sponsor olmak isteyen kuruluşlara da, bu kuruluşlarla yapılacak anlaşmalar doğrultusunda dernek içinde ve etkinliklerinde tanıtım olanakları sunar.
 
+Bağışta bulunmak ya da sponsor olmak istiyorsanız, bizimle iletisim@turquia1912.org adresinden iletişime geçmenizi rica ediyoruz.
 
-Bölüm 2
-
-<iframe width="1060" height="795" src="https://www.youtube.com/embed/SNPjP61XEn0?feature=oembed" frameborder="0" allowfullscreen=""></iframe>
-
-
-Bölüm 3
-
-<iframe width="1060" height="795" src="https://www.youtube.com/embed/6innMBuo9R8?feature=oembed" frameborder="0" allowfullscreen=""></iframe>
-
-
-Bölüm 4
-
-<iframe width="1060" height="795" src="https://www.youtube.com/embed/kzcbdigJ4PY?feature=oembed" frameborder="0" allowfullscreen=""></iframe>
-
-
-Bölüm 5
-
-<iframe width="1060" height="795" src="https://www.youtube.com/embed/vOsDPSPCx48?feature=oembed" frameborder="0" allowfullscreen=""></iframe>
-
-
-Bölüm 6
-
-<iframe width="1060" height="795" src="https://www.youtube.com/embed/1xRTmW3vkoU?feature=oembed" frameborder="0" allowfullscreen=""></iframe>
-
-
-Bölüm 7
-
-<iframe width="1060" height="795" src="https://www.youtube.com/embed/xWh5eowdGHw?feature=oembed" frameborder="0" allowfullscreen=""></iframe>
+Sevgiler,
+TURQUIA Yönetim Kurulu
