@@ -1,14 +1,11 @@
 ---
 layout: page
-excerpt: "About Me..."
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Turquia, İsviçre’de yaşayan Türk öğrencileri bir araya getirmeyi amaçlayan bir öğrenci derneğidir. Şubat 1912’de resmi olarak kurulmuş derneğimizde Türkiye’ye katkı sunacak çalışmalar ile dayanışma ortamının sağlanması için etkinlikler yapılmaktadır. Eğitimler, açık oturumlar, seminerler ve çalıştaylar ile üyelerimizin kişisel gelişimlerine destek olup İsviçre’de sürdürdükleri yaşamları boyunca başvuracakları bir kurum oluşturmak önceliğimizdir.
 
-## Current Interests and Projects:
+An itibariyle derneğimizin çoğunluğu <a href="http://epfl.ch/" style="color: #b1dbd9; text-decoration:underline">EPFL</a>, <a href="http://unil.ch/index.html" style="color: #b1dbd9; text-decoration:underline">UNIL</a>, <a href="http://unige.ch/" style="color: #b1dbd9; text-decoration:underline">UNIGE</a>, <a href="https://www.ethz.ch/de.html" style="color: #b1dbd9; text-decoration:underline">ETHZ</a> ve <a href="http://www.uzh.ch/de.html" style="color: #b1dbd9; text-decoration:underline">UZH</a> okullarında lisans, yüksek lisans ve doktora eğitimini sürdüren öğrencilerden oluşmaktadır.
 
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- DLorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
+Derneğimizin tüzüğüne şu bağlantılarla ulaşabilirsiniz:
+
+<a href="https://turquia1912.github.io/assets/files/TURQUIA-1912-Tüzük.pdf" style="color: #b1dbd9; text-decoration:underline">Tüzük – Türkçe</a> | <a href="https://turquia1912.github.io/assets/files/Statut-de-TURQUIA.pdf" style="color: #b1dbd9; text-decoration:underline">Tüzük – Fransızca (Statut de Turquia)</a>
