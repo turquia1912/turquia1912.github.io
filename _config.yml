@@ -1,15 +1,15 @@
 # Site wide configuration
 
-title: Site Title
+title: Turquia 1912
 locale: en_US
-logo: # filename of a logo image that has been placed into your images directory
+logo: turquia1912_amblem.jpg
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  name: Turquia 1912
+  avatar: turquia1912_amblem.jpg
+  bio: "İsviçre Türk Öğrenci Derneği"
+  email: iletisim@turquia1912.org
   # Do not include the @ symbol in your Twitter username
   twitter: #username
   linkedin: #username
